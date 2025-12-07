@@ -17,6 +17,6 @@ QubicXP bridges the gap between Qubic blockchain transactions and community enga
 4. Discord bot announces the new rank instantly.
 
 ## 🔗 Links
-- **Live Demo:** [Paste your Softr URL here]
+- **Live Demo:** https://otto18426.softr.app
 - **Video Demo:** [Paste your YouTube link here]
 - 
