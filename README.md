@@ -18,5 +18,5 @@ QubicXP bridges the gap between Qubic blockchain transactions and community enga
 
 ## 🔗 Links
 - **Live Demo:** https://otto18426.softr.app
-- **Video Demo:** [Paste your YouTube link here]
+- **Video Demo:** https://drive.google.com/file/d/1yvtO8avSESoj2_vvcLTL8aiGOXprhGS2/view?usp=drivesdk
 - 
