@@ -1,2 +1,22 @@
-# QubicXP
-"A no-code gamification layer that instantly rewards Qubic on-chain transactions with real-time community perks, leaderboards, and Discord roles."
+# QubicXP - Proof of Support Protocol
+
+## 🚀 Overview
+QubicXP bridges the gap between Qubic blockchain transactions and community engagement. Built for the **Qubic Hack the Future** hackathon (Track 2: EasyConnect).
+
+## 🛠 Tech Stack
+- **EasyConnect:** Monitors Qubic Mainnet transactions.
+- **Make.com:** Handles logic, routing, and data processing.
+- **Airtable:** Database for user rankings and transaction history.
+- **Softr:** Frontend Leaderboard.
+- **Discord API:** Real-time community alerts.
+
+## ⚡ How It Works
+1. A user sends QUBIC to the project wallet.
+2. EasyConnect triggers a webhook.
+3. The system calculates the user's new rank based on total contribution.
+4. Discord bot announces the new rank instantly.
+
+## 🔗 Links
+- **Live Demo:** [Paste your Softr URL here]
+- **Video Demo:** [Paste your YouTube link here]
+- 
